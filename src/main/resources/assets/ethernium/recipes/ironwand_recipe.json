@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "ethernium:iron_wand"
+  },
+  "pattern": [
+    "s   ",
+    " g ",
+    "  s"
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "key": {
+    "s": {
+      "item": "ethernium:iron_bead"
+    },
+    "g": {
+      "item": "ethernium:basic_wand"
+    }
+  }
+}

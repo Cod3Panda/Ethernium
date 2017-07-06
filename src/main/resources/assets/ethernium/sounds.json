@@ -1,0 +1,7 @@
+{
+  "block.magic_sound": {
+    "category": "block",
+    "subtitle": "block.magic_sound",
+    "sounds": [ { "name": "ethernium:block/magic_sound", "stream": true } ]
+  }
+}

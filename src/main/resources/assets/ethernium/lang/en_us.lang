@@ -1,0 +1,23 @@
+#English US Language file for Tutorial Mod
+
+#Creative Tab
+itemGroup.tab_ethernium=Ethernium
+
+#Items
+item.iron_bead.name=Iron Bead
+item.gold_bead.name=Gold Bead
+item.basic_wand.name=Basic Wand
+item.iron_wand.name=Iron Wand
+item.gold_wand.name=Gold Wand
+item.earth_crystal.name=Earth Crystal
+item.water_crystal.name=Water Crystal
+item.fire_crystal.name=Fire  Crystal
+item.air_crystal.name=Air Crystal
+item.dark_crystal.name=Dark Crystal
+item.light_crystal.name=Light Crystal
+
+#Blocks
+tile.aircrystal_block.name=Air Crystal Block
+
+#Sounds
+block.magic_sound=Magic Sound
